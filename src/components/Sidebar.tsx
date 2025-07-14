@@ -120,7 +120,7 @@ const Sidebar = ({ setActiveSection, activeSection }: { setActiveSection: (secti
 
         {isOpen && (
       <a
-        href="/public/Prasanna Venkatesh resume.docx"
+        href="/Prasanna Venkatesh resume.docx"
         download
         className="block w-full mt-4"
       >
