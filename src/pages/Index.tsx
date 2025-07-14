@@ -225,7 +225,7 @@ const Index = () => {
                 {/* Visecure */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/public/Visecure.png" alt="Visecure" className="w-full h-full object-cover" />
+                    <img src="/Visecure.png" alt="Visecure" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Visecure</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">HTML • Bootstrap • JavaScript • Google Analytics</p>
@@ -238,7 +238,7 @@ const Index = () => {
                 {/* Food Court App */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/public/FoodCourt.png" alt="Food Court App" className="w-full h-full object-cover" />
+                    <img src="/FoodCourt.png" alt="Food Court App" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Food Court Ordering App</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">MERN Stack • Razorpay • OTP Auth</p>
@@ -251,7 +251,7 @@ const Index = () => {
                 {/* AromaHut Ecommerce */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/public/Aromahut.png" alt="AromaHut" className="w-full h-full object-cover" />
+                    <img src="/Aromahut.png" alt="AromaHut" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">AromaHut – Ecommerce Website</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">React • Node.js • Razorpay • MongoDB</p>
@@ -264,7 +264,7 @@ const Index = () => {
                 {/* Learnite E-Learning */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/public/Learnite.png" alt="Learnite" className="w-full h-full object-cover" />
+                    <img src="/Learnite.png" alt="Learnite" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Learnite – E-learning Platform</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">HTML • CSS • Google Docs</p>
@@ -277,7 +277,7 @@ const Index = () => {
                 {/* Movie Recommender */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/public/MovieRecommadation.png" alt="Movie Recommender" className="w-full h-full object-cover" />
+                    <img src="/MovieRecommadation.png" alt="Movie Recommender" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Movie Recommendation System</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">Python • Machine Learning</p>
@@ -290,7 +290,7 @@ const Index = () => {
                 {/* Chatbot - Gemini API */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/images/chatbot.png" alt="Gemini Chatbot" className="w-full h-full object-cover" />
+                    <img src="/chatbot.png" alt="Gemini Chatbot" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Simple Chatbot with Gemini API</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">React • Gemini API • Node.js</p>
@@ -303,7 +303,7 @@ const Index = () => {
                 {/* Client Portfolio */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/public/Client.png" alt="Client Portfolio" className="w-full h-full object-cover" />
+                    <img src="/Client.png" alt="Client Portfolio" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Client Portfolio Website</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">Based on their Requirement</p>

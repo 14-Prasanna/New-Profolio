@@ -9,7 +9,7 @@ const ProfileCard = () => {
         <div className="w-41 h-41 rounded-full bg-gradient-to-br from-cyan-400 to-blue-500 p-[px] mx-auto mb-4">
           <div className="w-full h-full rounded-full overflow-hidden bg-white">
             <img
-              src="/public/me.jpeg"
+              src="/me.jpeg"
               alt="Prasanna Venkatesh K"
               className="w-full h-full object-cover"
             />
