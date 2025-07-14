@@ -6,7 +6,7 @@ const ProfileCard = () => {
     <div className="bg-slate-800 rounded-2xl p-8 border border-slate-700 shadow-2xl">
       <div className="text-center mb-6">
         {/* Profile Image with Gradient Border */}
-        <div className="w-41 h-41 rounded-full bg-gradient-to-br from-cyan-400 to-blue-500 p-[px] mx-auto mb-4">
+        <div className="w-31 h-31 rounded-full bg-gradient-to-br from-cyan-400 to-blue-500 p-[px] mx-auto mb-4">
           <div className="w-full h-full rounded-full overflow-hidden bg-white">
             <img
               src="/me.jpeg"
