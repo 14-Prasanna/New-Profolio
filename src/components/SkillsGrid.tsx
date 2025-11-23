@@ -7,13 +7,13 @@ const SkillsGrid = () => {
     {
       name: 'Frontend',
       icon: Globe,
-      skills: ['React', 'JavaScript', 'TypeScript', 'HTML/CSS', 'Tailwind CSS'],
+      skills: ['React.js', 'HTML/CSS/TypeScript', 'GASP'],
       color: 'from-blue-500 to-cyan-500'
     },
     {
       name: 'Backend',
       icon: Server,
-      skills: ['Node.js', 'Spring Boot', 'Express', 'REST APIs'],
+      skills: ['Node.js', 'Spring Boot', 'Express.js', 'REST APIs'],
       color: 'from-green-500 to-emerald-500'
     },
     {
