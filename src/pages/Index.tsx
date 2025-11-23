@@ -246,7 +246,7 @@ const Index = () => {
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/Visecure.png" alt="Visecure" className="w-full h-full object-cover" />
+                    <img src="/" alt="Fetchto" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">Fetchto</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">Java Spring Boot • PostgreSQL • React • AES-GCM • Woocommerce</p>
@@ -258,7 +258,7 @@ const Index = () => {
 
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
-                    <img src="/Visecure.png" alt="Visecure" className="w-full h-full object-cover" />
+                    <img src="/" alt="E-commerce" className="w-full h-full object-cover" />
                   </div>
                   <h3 className="text-white font-bold text-lg mb-1">E-commerce</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">Spring Boot • MySQL • React.js</p>
