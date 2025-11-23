@@ -25,7 +25,7 @@ const SkillsGrid = () => {
     {
       name: 'AI/ML',
       icon: Brain,
-      skills: ['OpenAI',],
+      skills: ['OpenAI'],
       color: 'from-orange-500 to-red-500'
     },
     {
