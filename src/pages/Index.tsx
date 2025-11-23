@@ -99,7 +99,29 @@ const Index = () => {
                       <h3 className="text-xl font-bold text-white mb-1">
                         Web Developer Intern
                       </h3>
-                      <p className="text-cyan-400 font-mono mb-2">Visecure (iStart Incubated) | Oct 2024 - Jan 2025</p>
+                      <p className="text-cyan-400 font-mono mb-2">Fetchto</p>
+                      <p className="text-slate-300">
+                       Developing WooCommerce plugin integrated with Fetchto panel using REST API’s for data encryption AES-GCM<br>
+                       </br>
+                        Order, encrypted and decrypted with AES- GCM and Axios for real time data communication for status updating using webhook to transmit data from backend to plugin
+                      </p>
+                    </div>
+                    <div className="text-slate-400 font-mono text-sm">AUG 2025 - OCT 2025</div>
+                  </div>
+                </div>
+              </div>
+              <br></br>
+              <div className="space-y-6">
+                <div className="bg-slate-800 rounded-lg p-6 border border-slate-700">
+                  <div className="flex items-start space-x-4">
+                    <div className="w-12 h-12 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-lg flex items-center justify-center">
+                      <span className="text-white font-bold">IN</span>
+                    </div>
+                    <div className="flex-1">
+                      <h3 className="text-xl font-bold text-white mb-1">
+                        Web Developer Intern
+                      </h3>
+                      <p className="text-cyan-400 font-mono mb-2">Visecure (iStart Incubated)</p>
                       <p className="text-slate-300">
                         Built the website from scratch, handled MSME licensing, and worked full-time on a student startup project with real-world deployment.
                       </p>
