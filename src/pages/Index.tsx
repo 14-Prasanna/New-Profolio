@@ -244,6 +244,32 @@ const Index = () => {
                 <span className="text-cyan-400">$</span> Featured Projects
               </h2>
               <div className="grid md:grid-cols-2 gap-6">
+                <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
+                  <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
+                    <img src="/Visecure.png" alt="Visecure" className="w-full h-full object-cover" />
+                  </div>
+                  <h3 className="text-white font-bold text-lg mb-1">Fetchto</h3>
+                  <p className="text-cyan-400 text-xs mb-1 font-mono">Java Spring Boot • PostgreSQL • React • AES-GCM • Woocommerce</p>
+                  <p className="text-slate-300 text-sm mb-2">
+                    Developing WooCommerce plugin integrated with Fetchto panel using REST API’s for data encryption AES-GCM<br>
+                    Order, encrypted and decrypted with AES- GCM and Axios for real time data communication for status updating using webhook to transmit data from backend to plugin
+                    </br>
+                  </p>
+                </div>
+
+                <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
+                  <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
+                    <img src="/Visecure.png" alt="Visecure" className="w-full h-full object-cover" />
+                  </div>
+                  <h3 className="text-white font-bold text-lg mb-1">E-commerce</h3>
+                  <p className="text-cyan-400 text-xs mb-1 font-mono">Spring Boot • MySQL • React.js</p>
+                  <p className="text-slate-300 text-sm mb-2">
+                    Designed and developed a comprehensive e-commerce platform for purchasing electronic gadgets, incorporating user authentication, product catalog management, and order processing features <br></br>
+                    Implemented secure backend services with Spring Boot, utilizing JWT Token for authentication on private APIs and building efficient RESTful APIs to handle business logic.
+                  </p>
+                  <a href="https://github.com/14-Prasanna/Techstack-Back-end" className="text-cyan-400 font-mono text-sm underline">View Project</a>
+                </div>
+                
                 {/* Visecure */}
                 <div className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:shadow-lg transition-all">
                   <div className="mb-4 h-48 bg-slate-700 rounded-lg overflow-hidden">
