@@ -13,33 +13,27 @@ const SkillsGrid = () => {
     {
       name: 'Backend',
       icon: Server,
-      skills: ['Node.js', 'Python', 'Express', 'FastAPI', 'REST APIs'],
+      skills: ['Node.js', 'Spring Boot', 'Express', 'REST APIs'],
       color: 'from-green-500 to-emerald-500'
     },
     {
       name: 'Database',
       icon: Database,
-      skills: ['MongoDB', 'MySQL', 'Firebase'],
+      skills: ['MongoDB', 'MySQL'],
       color: 'from-purple-500 to-violet-500'
     },
     {
       name: 'AI/ML',
       icon: Brain,
-      skills: ['Scikit-learn', 'OpenAI',],
+      skills: ['OpenAI',],
       color: 'from-orange-500 to-red-500'
     },
     {
       name: 'Tools',
       icon: Code,
-      skills: ['Git', 'Docker', 'VS Code'],
+      skills: ['Git','VS Code','Putty','Linux'],
       color: 'from-pink-500 to-rose-500'
     },
-    {
-      name: 'Mobile',
-      icon: Smartphone,
-      skills: ['React Native','Expo', 'Android', 'iOS'],
-      color: 'from-indigo-500 to-blue-500'
-    }
   ];
 
   return (
