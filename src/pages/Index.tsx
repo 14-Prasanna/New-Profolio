@@ -251,9 +251,8 @@ const Index = () => {
                   <h3 className="text-white font-bold text-lg mb-1">Fetchto</h3>
                   <p className="text-cyan-400 text-xs mb-1 font-mono">Java Spring Boot • PostgreSQL • React • AES-GCM • Woocommerce</p>
                   <p className="text-slate-300 text-sm mb-2">
-                    Developing WooCommerce plugin integrated with Fetchto panel using REST API’s for data encryption AES-GCM<br>
+                    Developing WooCommerce plugin integrated with Fetchto panel using REST API’s for data encryption AES-GCM<br></br>
                     Order, encrypted and decrypted with AES- GCM and Axios for real time data communication for status updating using webhook to transmit data from backend to plugin
-                    </br>
                   </p>
                 </div>
 
